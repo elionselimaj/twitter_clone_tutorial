@@ -1,24 +1,20 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Ruby gems used in this build
 
-Things you may want to cover:
+- [Better Errors](https://rubygems.org/gems/better_errors) - For better errors
 
-* Ruby version
+- [Bulma](https://github.com/joshuajansen/bulma-rails) - for easy CSS. Feel free to roll your own styles and/or use a different framework.
 
-* System dependencies
+- [Guard](https://github.com/guard/guard) - Useful for live reloading our `scss`, `js`, `css`, and `erb` files, although it's capable of much more!
 
-* Configuration
+  *Guard is required for the Guard LiveReload gem to work*
 
-* Database creation
+- [Guard LiveReload](https://github.com/guard/guard-livereload)
 
-* Database initialization
+- [Simple Form](https://github.com/plataformatec/simple_form) - For simple forms!
 
-* How to run the test suite
+- [Devise](https://github.com/plataformatec/devise) - Effortless user roles and authentication
 
-* Services (job queues, cache servers, search engines, etc.)
+- [Gravatar_image_tag](https://github.com/mdeering/gravatar_image_tag) - Integrated image tag which spits out gravatars.
 
-* Deployment instructions
-
-* ...
+  ​
